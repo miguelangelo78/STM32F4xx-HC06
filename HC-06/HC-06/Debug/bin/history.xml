@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=HC-06.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\HC-06 -TC:\CooCox\CoIDE\configuration\ProgramData\HC-06/arm-gcc-link.ld -g">
+      <target file="HC-06.elf" lastModified="1516388be2f">
+         <source file="..\obj\semihosting.o" lastModified="151637ff0dd"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="151637ff275"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="151637ff33b"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="151637ff3aa"/>
+         <source file="..\obj\main.o" lastModified="1516384cb9b"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="151637ff5c2"/>
+         <source file="..\obj\printf.o" lastModified="151637ff6d6"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="151637ff79d"/>
+         <source file="..\obj\sh_cmd.o" lastModified="151637ff7b5"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="151637ff84d"/>
+         <source file="..\obj\syscalls.o" lastModified="151637ff8e5"/>
+         <source file="..\obj\misc.o" lastModified="151637ff983"/>
+         <source file="..\obj\hc06.o" lastModified="1516388bc16"/>
+      </target>
+   </processor>
+</history>
